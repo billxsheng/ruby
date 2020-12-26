@@ -1,1 +1,3 @@
 # ruby
+
+Ruby learning repo.
